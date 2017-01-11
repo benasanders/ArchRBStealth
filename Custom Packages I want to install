@@ -18,8 +18,8 @@ python-markdown
 python-pip
 python-sh
 reflector
-#ffmpeg-compat
-#flashplugin
+ffmpeg
+flashplugin-beta
 qt5-wayland
 mpv
 hdparm
