@@ -4,7 +4,7 @@
 
 #Official packages
 xf86-input-libinput
-xf86-video-intel
+# xf86-video-intel # apparently I can use the xorg built in modesetting driver instead and it's faster. We'll see.
 dkms # Delete this comment when you add dkms to the install scripts. I know you'll forget.
 linux-headers
 intel-ucode
