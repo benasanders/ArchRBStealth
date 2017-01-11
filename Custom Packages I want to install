@@ -19,15 +19,33 @@ python-sh
 reflector
 #ffmpeg-compat
 #flashplugin
+qt5-wayland
+mpv
+hdparm
+vdpauinfo
+
+
 
 #Gui Apps
-google-chrome
 firefox
-spotify
 vlc
+atom
 
 
 #The gui
+sddm # be sure to add sddm.conf to the installer
+plasma
+kwayland
+plasma-wayland-session
+plasma-pa
+kdenetwork-filesharing
+kdeconnect
+kscreen
 
 #aur packages
 iucode-tool
+ttf-google-fonts-git
+ttf-ms-fonts
+emojione-color-font
+google-chrome
+spotify
