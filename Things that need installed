@@ -1,9 +1,22 @@
 #Things that (arguably) everyone with this laptop wants, like drivers, large fonts, razer-driver-meta, etc.
 #I'm gonna be messing around with DEs so I'm throwing xorg and wayland in here.
+#Also very commonly used things like cups and samba.
 
 #Official packages
 xf86-input-libinput
 xf86-video-intel
+dkms # Delete this comment when you add dkms to the install scripts. I know you'll forget.
+linux-headers
+intel-ucode
+cups
+dbus
+dbus-python
+samba
+xorg-server
+xorg-xev
+xorg-xmodmap
+xorg-xrandr
+
 
 #Aur packages
 razer-driver-meta
