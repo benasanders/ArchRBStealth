@@ -16,6 +16,15 @@ xorg-server
 xorg-xev
 xorg-xmodmap
 xorg-xrandr
+wayland
+xorg-server-xwayland
+util-linux # for ssd trim support
+mesa-libgl
+vulkan-intel
+libva-intel-driver
+libvdpau-va-gl
+ttf-dejavu
+terminus-font
 
 
 #Aur packages
