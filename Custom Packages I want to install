@@ -6,6 +6,9 @@
 # Maybe since *my* stealth is 3840 × 2160 instead of the MBPs 2560 x 1600, the 2x will look better. That's a lot of effing pixels.
 
 # Shell stuff
+bluez
+bluez-utils
+bluedevil
 iotop
 openssh
 zip
@@ -30,12 +33,12 @@ hdparm
 vdpauinfo
 rdesktop
 
-#Gui Apps
+# Gui Official Apps
 firefox
 vlc
 
-#The gui
-sddm # be sure to add sddm.conf to the installer
+# The gui
+sddm
 plasma
 kwayland
 plasma-wayland-session
@@ -52,7 +55,7 @@ kwalletmanager
 ksystemlog
 konsole
 
-#aur packages
+# AUR packages
 update-pacman-mirrorlist
 atom-editor-bin
 ttf-mac-fonts
