@@ -17,10 +17,17 @@ python-markdown
 python-pip
 python-sh
 reflector
+#ffmpeg-compat
+#flashplugin
 
 #Gui Apps
 google-chrome
 firefox
+spotify
+vlc
 
 
 #The gui
+
+#aur packages
+iucode-tool
