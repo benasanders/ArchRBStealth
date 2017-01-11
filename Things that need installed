@@ -25,6 +25,8 @@ libva-intel-driver
 libvdpau-va-gl
 ttf-dejavu
 terminus-font
+git
+sudo
 
 
 #Aur packages
