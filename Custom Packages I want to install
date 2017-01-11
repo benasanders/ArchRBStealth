@@ -1,6 +1,7 @@
-#These are customizations I want. Themes and programs and such. Not necessary for everyone on this laptop.
+# These are customizations I want. Themes and programs and such. Not necessary for everyone on this laptop.
+# I like the maia theme from manjaro, so I hope this installs them properly.
 
-#Shell stuff
+# Shell stuff
 iotop
 openssh
 zip
@@ -23,14 +24,11 @@ qt5-wayland
 mpv
 hdparm
 vdpauinfo
-
-
+rdesktop
 
 #Gui Apps
 firefox
 vlc
-atom
-
 
 #The gui
 sddm # be sure to add sddm.conf to the installer
@@ -41,11 +39,31 @@ plasma-pa
 kdenetwork-filesharing
 kdeconnect
 kscreen
+spectacle
+dolphin
+plasma-nm
+network-manager-applet
+kwallet-pam
+kwalletmanager
+ksystemlog
+konsole
 
 #aur packages
+update-pacman-mirrorlist
+atom-editor-bin
+ttf-mac-fonts
+pepper-flash
+remmina-git
+remmina-plugin-rdesktop
 iucode-tool
 ttf-google-fonts-git
 ttf-ms-fonts
 emojione-color-font
 google-chrome
 spotify
+artwork-maia
+maia-gtk-theme
+maia-icon-theme
+maia-wallpaper
+plasma5-themes-maia
+sddm-maia-theme
