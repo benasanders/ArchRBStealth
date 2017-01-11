@@ -1,0 +1,10 @@
+#Things that (arguably) everyone with this laptop wants, like drivers, large fonts, razer-driver-meta, etc.
+#I'm gonna be messing around with DEs so I'm throwing xorg and wayland in here.
+
+#Official packages
+xf86-input-libinput
+xf86-video-intel
+
+#Aur packages
+razer-driver-meta
+#touchegg #for touch screen support. I don't know if I want it yet.
