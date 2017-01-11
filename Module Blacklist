@@ -1,2 +1,2 @@
-#Modules to blacklist. Perhaps with kernel params. Perhaps with modprobe.d. I haven't deviceded yet.
+#Modules to blacklist. Perhaps with kernel params. Perhaps with modprobe.d. I haven't decided yet.
 pcspkr
