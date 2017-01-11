@@ -1,5 +1,9 @@
 # These are customizations I want. Themes and programs and such. Not necessary for everyone on this laptop.
 # I like the maia theme from manjaro, so I hope this installs them properly.
+#
+# All the kde stuff might change later. I liked it because I could scale it well on my retina MBP.
+# I like budgie but gnome(based) DEs would only scale 2x size, not 1.5x or anything, so everything was either super duper small or cartoonishly big.
+# Maybe since *my* stealth is 3840 × 2160 instead of the MBPs 2560 x 1600, the 2x will look better. That's a lot of effing pixels.
 
 # Shell stuff
 iotop
