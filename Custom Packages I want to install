@@ -1,0 +1,26 @@
+#These are customizations I want. Themes and programs and such. Not necessary for everyone on this laptop.
+
+#Shell stuff
+iotop
+openssh
+zip
+unzip
+unrar
+zsh
+wget
+python2
+python2-markdown
+python2-pip
+python2-sh
+python
+python-markdown
+python-pip
+python-sh
+reflector
+
+#Gui Apps
+google-chrome
+firefox
+
+
+#The gui
